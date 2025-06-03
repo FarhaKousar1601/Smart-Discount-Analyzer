@@ -6,7 +6,7 @@
 ![Looker Studio](https://img.shields.io/badge/Tool-Looker%20Studio-0e7a0e?logo=google)
 ![Excel](https://img.shields.io/badge/Tool-Excel-217346?logo=microsoft-excel)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Project Status](https://img.shields.io/badge/status-Under%20Development-yellow)
+
 
 
 
